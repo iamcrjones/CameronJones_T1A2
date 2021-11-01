@@ -1,0 +1,17 @@
+/* Color List
+--space-cadet: #2d3142ff;
+--silver: #bfc0c0ff;
+--white: #ffffffff;
+--mandarin: #ef8354ff;
+--independence: #4f5d75ff;
+*/
+
+.headings {
+   font-family: "Rubik", sans-serif;
+}
+
+p{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px;
+
+}
