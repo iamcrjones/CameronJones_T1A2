@@ -15,3 +15,32 @@ p{
     font-size: 20px;
 
 }
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+
+#linkedin {
+    width: 76px;
+    height: 64px;
+    padding-left: 10px; padding-right: 10px;
+}
+#instagram {
+    width: 64px;
+    height: 64px;
+    padding-left: 10px; padding-right: 10px;
+}
+#github {
+    width: 64px;
+    height: 64px;
+    padding-left: 10px; padding-right: 10px;
+}
+#twitter {
+    width: 64px;
+    height: 64px;
+    padding-left: 10px; padding-right: 10px;
+}
+
+
