@@ -29,7 +29,6 @@ body {
 nav {
     background-color: #403F4C;
     font-family: "Rubik", sans-serif;
-    padding: 10px;
 }
 nav .active {
     background-color: #2C2B3C;
@@ -48,6 +47,9 @@ nav ul {
 }
 nav li {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 p{
     font-family: "Noto Sans", sans-serif;
@@ -60,10 +62,12 @@ p{
 /* Everything that contains the footer goes here */
 footer {
     background-color: #403F4C;
+    position: fixed; bottom: 0;
+    justify-content: center;
+    width: 100%;
 }
 .social-icons {
-    display: flex;
-    justify-content: center;
+
 }
 #linkedin {
     width: 76px;
