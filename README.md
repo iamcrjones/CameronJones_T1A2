@@ -17,6 +17,9 @@ Wireframes have been redone with a traditional navbar instead of a hamburger sty
 ![Blog Article page](/docs/Wireframes/wireframe-blogArticle.png)
 ![Contact page](/docs/Wireframes/wireframe-contact.png)
 
+### 21.11.03
+I have built the navbar linking all of the other pages together. Ive begun styling the homepage and main header experimenting with colours.
+
 
 
 
