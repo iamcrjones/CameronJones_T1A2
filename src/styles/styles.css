@@ -43,13 +43,18 @@ nav ul {
     flex-direction: row;
     list-style-type: none;
     margin: 0;
-    padding: 0px;
+    padding: 5%;
 }
 nav li {
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+.aboutContent img {
+    display: flex;
+    float: right;
+    position: relative;
 }
 p{
     font-family: "Noto Sans", sans-serif;
@@ -62,7 +67,7 @@ p{
 /* Everything that contains the footer goes here */
 footer {
     background-color: #403F4C;
-    position: fixed; bottom: 0;
+    position: relative; /*keeps the footer at the bottom of the page*/
     justify-content: center;
     width: 100%;
 }
