@@ -1,13 +1,17 @@
 /* Color List
---space-cadet: #2d3142ff;
---silver: #bfc0c0ff;
---white: #ffffffff;
---mandarin: #ef8354ff;
---independence: #4f5d75ff;
+#67697C
+#2C2B3C
+#403F4C
+#bfc0c0ff
+*/
+/* Fonts Used
+"Rubik", sans-serif;
+"Noto Sans", sans-serif;
 */
 
+
 body {
-    background-color: #4f5d75ff;
+    background-color: #67697C;
     margin: 0;
 }
 
@@ -15,7 +19,7 @@ body {
 .main-header {
    font-family: "Rubik", sans-serif;
    text-align: center;
-   background-color: #4f5d75ff;
+   background-color: #2C2B3C;
    color: #bfc0c0ff;
    margin: 0;
    padding-top: 15px;
@@ -23,36 +27,40 @@ body {
 }
 /* Nav bar */
 nav {
-    background-color: rgb(70, 79, 95);
+    background-color: #403F4C;
     font-family: "Rubik", sans-serif;
+    padding: 10px;
 }
 nav .active {
-    background-color: green;
+    background-color: #2C2B3C;
 }
 nav a {
     text-decoration: none;
     overflow: hidden;
     color: #bfc0c0ff;
-    padding: 10px 10px;
 }
 nav ul {
+    display: flex;
+    flex-direction: row;
     list-style-type: none;
     margin: 0;
-    padding: 10px;
-    text-align: center;
+    padding: 0px;
 }
-nav li{
-    display: inline;
-    text-align: center;
+nav li {
+    width: 100%;
 }
 p{
     font-family: "Noto Sans", sans-serif;
     font-size: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
+/* Everything that contains the footer goes here */
+footer {
+    background-color: #403F4C;
+}
 .social-icons {
     display: flex;
     justify-content: center;
