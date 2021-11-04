@@ -29,7 +29,7 @@ body a {
    padding-top: 20px;
    padding-bottom: 20px;
 }
-/* Nav bar */
+/* Nav bar styling starts here */
 nav {
     width: 100%;
     background-color: #403F4C;
@@ -49,6 +49,8 @@ nav a {
     color: #bfc0c0ff;
     width: 100%;
 }
+/*Nav bar styling finishes here */
+
 .aboutContent img {
     display: flex;
     float: right;
@@ -57,6 +59,7 @@ nav a {
 main {
     margin: 8px;
 }
+/*Blog Page styling starts here*/
 .card {
     display: flex;
     flex-direction: column;
@@ -92,6 +95,7 @@ main {
    width: 80%;
    align-items: center;
 }
+/*Blog page styling finishes here*/
 p{
     font-family: "Noto Sans", sans-serif;
     font-size: 20px;
@@ -100,7 +104,7 @@ p{
 
 }
 
-/* Everything that contains the footer goes here */
+/*Footer styling starts her */
 footer {
     background-color: #403F4C;
     position: relative;/*keeps the footer at the bottom of the page*/
@@ -129,5 +133,5 @@ footer {
     width: 64px;
     height: 64px;
 }
-
+/*Footer styling finishes here*/
 
