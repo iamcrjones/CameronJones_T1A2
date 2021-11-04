@@ -14,7 +14,10 @@ body {
     background-color: #67697C;
     margin: 0;
 }
-
+body a {
+    text-decoration: none;
+    color: #bfc0c0ff;
+}
 /* Main header that will sit at the top of page at all times. */
 .main-header {
    width: 100%;
