@@ -17,6 +17,8 @@ body {
 
 /* Main header that will sit at the top of page at all times. */
 .main-header {
+   position: relative;
+   width: 100%;
    font-family: "Rubik", sans-serif;
    text-align: center;
    background-color: #2C2B3C;
@@ -27,6 +29,8 @@ body {
 }
 /* Nav bar */
 nav {
+    position: relative;
+    width: 100%;
     background-color: #403F4C;
     font-family: "Rubik", sans-serif;
     display: flex;
@@ -47,6 +51,17 @@ nav a {
     display: flex;
     float: right;
     position: relative;
+}
+main {
+    margin: 8px;
+}
+.blogSnippet {
+    border: 2px solid black;
+    margin-bottom: 10%;
+    box-shadow: 2px 2px black;
+}
+.blogSnippet img {
+    width: 100%;
 }
 p{
     font-family: "Noto Sans", sans-serif;
