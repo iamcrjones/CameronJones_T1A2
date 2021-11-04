@@ -17,13 +17,13 @@ body {
 
 /* Main header that will sit at the top of page at all times. */
 .main-header {
-   width: 101%;
+   width: 100%;
    font-family: "Rubik", sans-serif;
    text-align: center;
    background-color: #2C2B3C;
    color: #bfc0c0ff;
    margin: 0;
-   padding-top: 15px;
+   padding-top: 20px;
    padding-bottom: 20px;
 }
 /* Nav bar */
@@ -34,7 +34,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding: 2%;
+    text-align: center;
 }
 nav .active {
     background-color: #2C2B3C;
@@ -44,6 +44,7 @@ nav a {
     text-decoration: none;
     overflow: hidden;
     color: #bfc0c0ff;
+    width: 100%;
 }
 .aboutContent img {
     display: flex;
