@@ -19,9 +19,6 @@ body a {
 p{
     font-family: "Noto Sans", sans-serif;
     font-size: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-
 }
 /* Main header that will sit at the top of page at all times. */
 .main-header {
@@ -62,7 +59,7 @@ nav a {
     flex-wrap: row;
 }
 main {
-    margin: 8px;
+    margin: 3%;
 }
 /*Blog Page styling starts here*/
 .card {
