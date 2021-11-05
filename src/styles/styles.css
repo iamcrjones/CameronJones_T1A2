@@ -8,6 +8,9 @@
 "Rubik", sans-serif;
 "Noto Sans", sans-serif;
 */
+html{
+    perspective: 1000px;
+}
 body {
     background-color: #67697C;
     margin: 0;
@@ -98,7 +101,9 @@ main {
    align-items: center;
 }
 /*Blog page styling finishes here*/
-
+.lorem {
+    width: 100%;
+}
 /*Contact page styling starts here*/
 .contactForm label {
     display: flex;
@@ -144,4 +149,3 @@ footer {
     position: fixed; bottom: 0;
 }
 /*Footer styling finishes here*/
-
