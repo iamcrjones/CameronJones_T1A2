@@ -149,3 +149,20 @@ footer {
     position: relative; bottom: 0;
 }
 /*Footer styling finishes here*/
+
+/*Tablet media breakpoint*/
+@media only screen and (min-width: 768px){
+    .postList {
+        display: inline-flex;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    .postList a {
+        width: 40%;
+    }
+    .card {
+        display: inline-flex;
+        flex-direction: column;
+        width: 40%;
+    }
+}
