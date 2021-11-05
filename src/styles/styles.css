@@ -102,7 +102,6 @@ main {
     justify-content: center;
     align-items: center;
     background-color: transparent;
-    perspective: 1000px;
     width: 200px;
     height: 200px;
 }
