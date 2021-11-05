@@ -18,17 +18,22 @@
    </nav>
    <main>
        <h2>How to contact me:</h2>
-       <div class="flip-card">
-           <div class="flip-card-inner">
-               <div class="flip-card-front">
-                   <img src="/img/envelope-fill.svg" alt="Email icon" width="200" height="200">
-               </div>
-               <div class="flip-card-back">
-                   <h2>Email:</h2>
-                   <p>iamcrjones@gmail.com</p>
-               </div>
-           </div>
+       <form class="contactForm">
+        <div class="formName">
+            <label>Name: </label>
+            <input type="text" name="firstName"
+            placeholder="Your name">
        </div>
+       <div class="formEmail">
+        <label>Email: </label>
+        <input type="email" name="email"
+        placeholder="Your email address">
+        </div>
+        <div class="formMessage">
+            <label>Message: </label>
+            <textarea name="message" placeholder="Type your message here."></textarea>
+       </div>
+       </form>
    </main>
     <footer>
         <div class="social-icons">
