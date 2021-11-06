@@ -59,8 +59,13 @@ nav a {
 .aboutContent img {
     display: flex;
     float: right;
-    flex-wrap: row;
+    align-items: flex-start;
     max-width: 40%;
+    border-radius: 25%;
+    -webkit-border-radius: 25%;
+    -moz-border-radius: 25%;
+    -ms-border-radius: 25%;
+    -o-border-radius: 25%;
 }
 main {
     margin: 0;
@@ -118,20 +123,18 @@ main {
 }
 /*Footer styling starts her */
 footer {
-    background-color: #8EE4AF;
     position: relative;bottom:0;/*keeps the footer at the bottom of the page*/
     justify-content: center;
     width: 100%;
     margin-top: 10%;
 }
 .social-icons {
-    padding: 5%;
     display: flex;
-    justify-content: space-between;
-    position: relative;
+    justify-content: space-around;
+    align-items: center;
 }
 #linkedin {
-    width: 76px;
+    width: 64px;
     height: 64px;
 }
 #instagram {
