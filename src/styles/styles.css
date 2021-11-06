@@ -3,21 +3,23 @@
 #2C2B3C
 #403F4C
 #bfc0c0ff
+
+#05386B
+#379683
+#5CDB95
+#8EE4AF
+#EDF5E1
 */
 /* Fonts Used
 "Rubik", sans-serif;
 "Noto Sans", sans-serif;
 */
-html{
-    perspective: 1000px;
-}
 body {
-    background-color: #67697C;
+    font-family: "Noto Sans", sans-serif;
+    background-color: #5CDB95;
+    color: #05386B;
     margin: 0;
-}
-body a {
-    text-decoration: none;
-    color: #bfc0c0ff;
+    margin: 5%;
 }
 p{
     font-family: "Noto Sans", sans-serif;
@@ -25,34 +27,32 @@ p{
 }
 /* Main header that will sit at the top of page at all times. */
 .main-header {
-   width: 100%;
+   max-width: 150px;
    font-family: "Rubik", sans-serif;
-   text-align: center;
-   background-color: #2C2B3C;
-   color: #bfc0c0ff;
+   text-align: left;
+   font-weight: 700 bold;
+   color: #05386B;
    margin: 0;
    padding-top: 20px;
    padding-bottom: 20px;
+   overflow: none;
 }
 /* Nav bar styling starts here */
 nav {
-    width: 100%;
-    background-color: #403F4C;
-    font-family: "Rubik", sans-serif;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    text-align: center;
-}
-nav .active {
-    background-color: #2C2B3C;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 250px;
 }
 nav a {
-    justify-content: space-between;
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
     text-decoration: none;
-    overflow: hidden;
-    color: #bfc0c0ff;
-    width: 100%;
+    color: #05386B;
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
 }
 /*Nav bar styling finishes here */
 
@@ -60,9 +60,11 @@ nav a {
     display: flex;
     float: right;
     flex-wrap: row;
+    max-width: 40%;
 }
 main {
-    margin: 3%;
+    margin: 0;
+    padding-top: 2%;
 }
 /*Blog Page styling starts here*/
 .postList {
@@ -116,7 +118,7 @@ main {
 }
 /*Footer styling starts her */
 footer {
-    background-color: #403F4C;
+    background-color: #8EE4AF;
     position: relative;bottom:0;/*keeps the footer at the bottom of the page*/
     justify-content: center;
     width: 100%;
