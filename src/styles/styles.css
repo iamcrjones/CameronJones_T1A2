@@ -60,7 +60,7 @@ nav a {
     display: flex;
     float: right;
     align-items: flex-start;
-    max-width: 40%;
+    max-width: 350px;
     border-radius: 25%;
     -webkit-border-radius: 25%;
     -moz-border-radius: 25%;
