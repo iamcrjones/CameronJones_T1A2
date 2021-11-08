@@ -147,12 +147,12 @@ footer {
     bottom: 0;/*keeps the footer at the bottom of the page*/
     justify-content: center;
     width: 100%;
-    margin-top: 10%;
 }
 
 .home-footer {
     position: relative;
     bottom: 0;
+    margin-top: 30%;
 }
 
 .social-icons {
