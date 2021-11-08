@@ -1,9 +1,4 @@
 /* Color List
-#67697C
-#2C2B3C
-#403F4C
-#bfc0c0ff
-
 #05386B
 #379683
 #5CDB95
@@ -18,8 +13,8 @@ body {
     font-family: "Noto Sans", sans-serif;
     background-color: #5CDB95;
     color: #05386B;
-    margin: 0;
     margin: 5%;
+    margin-bottom: 0;
 }
 
 p {
