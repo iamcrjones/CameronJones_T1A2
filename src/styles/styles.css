@@ -71,6 +71,7 @@ nav a {
     display: flex;
     float: right;
     align-items: flex-start;
+    justify-content: center;
     max-width: 350px;
     border-radius: 25%;
     -webkit-border-radius: 25%;
@@ -143,14 +144,14 @@ main {
 
 /*Footer styling starts here */
 footer {
-    position: relative;
+    flex-shrink: 0;
     bottom: 0;/*keeps the footer at the bottom of the page*/
     justify-content: center;
     width: 100%;
 }
 
 .home-footer {
-    position: relative;
+    flex-shrink: 0;
     bottom: 0;
     margin-top: 30%;
 }
