@@ -240,9 +240,11 @@ main {
     border: none;
     outline: none;
     margin: 4px;
+    margin-top: 25px;
     cursor: pointer;
     text-decoration: none;
     width: 20%;
+    text-align: center;
 }
 
 .resume-button:hover {
