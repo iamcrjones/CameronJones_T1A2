@@ -5,20 +5,27 @@
     <meta name="viewport" content="width=device-width initial-scale=1">
     <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="../styles/styles.css"/>
     <title>Cameron Jones</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+    <link rel="manifest" href="../favicon/site.webmanifest">
 </head>
 <body>
     <!-- <h1 class="main-header">Cameron Jones</h1> -->
     <nav>
-        <a href="../index.html" class="crj" >CRJ</a>
-        <a href="/pages/about.html">About</a>
-        <a href="/pages/blog.html">Blog</a>
-        <a href="/pages/contact.html">Contact</a>
+        <a href="../index.html" class="crj">CRJ</a>
+        <a href="./about.html" class="selected">About</a>
+        <a href="./blog.html">Blog</a>
+        <a href="./contact.html">Contact</a>
    </nav>
     <main class="aboutContent">
         <h2>About Me</h2>
-        <img src="/img/selfie.jpg" alt="Image of Cameron">
+        <div class="hero-image-container">
+            <img class="hero-image" src="../img/selfie.png" alt="Image of Cameron">
+        </div>
         <p>My name is Cameron Jones and I am an aspiring web developer located in Brisbane, Australia.</p>
         <h3>Work</h3>
         <p>I've been working in retail for a few years now and made the decision that I wanted to pursue a career in tech and web development.</p>
@@ -29,11 +36,11 @@
     </main>
 
     <footer>
-        <div class="social-icons">
-            <a href="https://github.com/iamcrjones" target="_blank"><img id="github" src="/img/GitHubLogo_new.png" alt="GitHub Account"></a>
-            <a href="https://www.linkedin.com/in/cameron-jones-45143a223/" target="_blank"><img id="linkedin" src="/img/linkedin_new.png" alt="LinkedIn Account"></a>
-            <a href="https://www.instagram.com/im_crjones/" target="_blank"><img id="instagram" src="/img/InstagramLogo_new.png" alt="Instagram Account"></a>
-            <a href="https://twitter.com/iamcrjones" target="_blank"><img id="twitter" src="/img/twitterLogo_new.png" alt="Twitter Account"></a>
+        <div class="social-icons-container">
+            <a href="https://github.com/iamcrjones" target="_blank"><img class="social-icon" src="../img/GitHubLogo_new.png" alt="GitHub Account"></a>
+            <a href="https://www.linkedin.com/in/cameron-jones-45143a223/" target="_blank"><img class="social-icon" src="../img/linkedin_new.png" alt="LinkedIn Account"></a>
+            <a href="https://www.instagram.com/im_crjones/" target="_blank"><img class="social-icon" src="../img/InstagramLogo_new.png" alt="Instagram Account"></a>
+            <a href="https://twitter.com/iamcrjones" target="_blank"><img class="social-icon" src="../img/twitterLogo_new.png" alt="Twitter Account"></a>
         </div>
     </footer>
 </body>

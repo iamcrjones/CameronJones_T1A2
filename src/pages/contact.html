@@ -5,44 +5,65 @@
     <meta name="viewport" content="width=device-width initial-scale=1">
     <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="../styles/styles.css"/>
     <title>Cameron Jones</title>
-    </head>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+    <link rel="manifest" href="../favicon/site.webmanifest">
+
+</head>
 <body>
     <!-- <h1 class="main-header">Cameron Jones</h1> -->
     <nav>
-        <a href="../index.html" class="crj" >CRJ</a>
-        <a href="/pages/about.html">About</a>
-        <a href="/pages/blog.html">Blog</a>
-        <a href="/pages/contact.html">Contact</a>
-   </nav>
-   <main>
-       <h2>How to contact me:</h2>
-       <p>Please fill out the form below with a message to contact me and I'll get back to you as soon as I can.</p>
-       <form class="contactForm">
-            <div class="formName">
-                <label>Name: </label>
-                <input type="text" name="firstName"
-                placeholder="Your name">
-            </div>
-            <div class="formEmail">
-                <label>Email: </label>
-                <input type="email" name="email"
-                placeholder="Your email address">
-            </div>
-            <div class="formMessage">
-                <label>Message: </label>
-                <textarea name="message" placeholder="Type your message here."></textarea>
-            </div>
-       </form>
-       <p>Or, if you would like to contact me via a different platform, please feel free to massage me on the platforms of the icons down in the footer. Thanks for checking out my portfolio!</p>
-   </main>
+        <a href="../index.html" class="crj">CRJ</a>
+        <a href="./about.html">About</a>
+        <a href="./blog.html">Blog</a>
+        <a href="./contact.html" class="selected">Contact</a>
+    </nav>
+    <main>
+        <h2>How to contact me:</h2>
+        <p>Please fill out the form below with a message to contact me and I'll get back to you as soon as I can.</p>
+        <form class="contact-form">
+                <div class="form-top">
+                     <div class="form-name">
+                        <label>Name: </label>
+                        <input
+                            class="contact-form-input"
+                            type="text"
+                            name="firstName"
+                            placeholder="Your name"
+                        >
+                    </div>
+                    <div class="form-email">
+                        <label>Email: </label>
+                        <input
+                            class="contact-form-input"
+                            type="email" 
+                            name="email"
+                            placeholder="Your email address"
+                        >
+                    </div>
+                </div>
+                <div class="form-message">
+                    <label>Message: </label>
+                    <textarea
+                        class="contact-form-input"
+                        name="message"
+                        placeholder="Type your message here."
+                    ></textarea>
+                </div>
+            <button class="form-button">Say Hello 👋</button>
+        </form>
+        <p>Or, if you would like to contact me via a different platform, please feel free to massage me on the platforms of the icons down in the footer. Thanks for checking out my portfolio!</p>
+    </main>
     <footer>
-        <div class="social-icons">
-            <a href="https://github.com/iamcrjones" target="_blank"><img id="github" src="/img/GitHubLogo_new.png" alt="GitHub Account"></a>
-            <a href="https://www.linkedin.com/in/cameron-jones-45143a223/" target="_blank"><img id="linkedin" src="/img/linkedin_new.png" alt="LinkedIn Account"></a>
-            <a href="https://www.instagram.com/im_crjones/" target="_blank"><img id="instagram" src="/img/InstagramLogo_new.png" alt="Instagram Account"></a>
-            <a href="https://twitter.com/iamcrjones" target="_blank"><img id="twitter" src="/img/twitterLogo_new.png" alt="Twitter Account"></a>
+        <div class="social-icons-container">
+            <a href="https://github.com/iamcrjones" target="_blank"><img class="social-icon" src="../img/GitHubLogo_new.png" alt="GitHub Account"></a>
+            <a href="https://www.linkedin.com/in/cameron-jones-45143a223/" target="_blank"><img class="social-icon" src="../img/linkedin_new.png" alt="LinkedIn Account"></a>
+            <a href="https://www.instagram.com/im_crjones/" target="_blank"><img class="social-icon" src="../img/InstagramLogo_new.png" alt="Instagram Account"></a>
+            <a href="https://twitter.com/iamcrjones" target="_blank"><img class="social-icon" src="../img/twitterLogo_new.png" alt="Twitter Account"></a>
         </div>
     </footer>
 </body>

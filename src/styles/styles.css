@@ -13,8 +13,7 @@ body {
     font-family: "Noto Sans", sans-serif;
     background-color: #5CDB95;
     color: #05386B;
-    margin: 5%;
-    margin-bottom: 0;
+    margin: 0;
 }
 
 p {
@@ -42,9 +41,28 @@ nav {
     justify-content: space-between;
     align-items: flex-start;
     max-width: 250px;
+    margin: 4%;
+}
+
+nav .selected {
+    border-bottom: 2px solid currentColor;
+    background-color: #05386B;
+    color: #5CDB95;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 0 2px;
+}
+
+nav a:hover {
+    border-bottom: 2px solid currentColor;
+    background-color: #05386B;
+    color: #5CDB95;
+    border-radius: 5px;
+    padding: 0px 2px;
 }
 
 nav a {
+    transition-duration: 0.2s;
     font-family: "Rubik", sans-serif;
     font-weight: bold;
     text-decoration: none;
@@ -52,11 +70,12 @@ nav a {
     display: flex;
     justify-content:flex-start;
     align-items: flex-start;
+    padding: 0 2px;
+    border: 2px transparent;
 }
 
 .crj {
-    padding-left: 2px;
-    padding-right: 2px;
+    padding: 0 2px;
     border: 2px solid;
     border-radius: 5px;
 }
@@ -67,7 +86,7 @@ nav a {
     float: right;
     align-items: flex-start;
     justify-content: center;
-    max-width: 100%;
+    max-width: 350px;
     border-radius: 25%;
     -webkit-border-radius: 25%;
     -moz-border-radius: 25%;
@@ -76,8 +95,20 @@ nav a {
 }
 
 main {
-    margin: 0;
+    margin: 4%;
     padding-top: 2%;
+}
+
+.hero-image-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
 }
 
 /*Blog Page styling starts here*/
@@ -99,6 +130,12 @@ main {
     margin-bottom: 10%;
     border: 2px solid black;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.card p {
+    margin: 10px;
 }
 
 .card h3 {
@@ -117,6 +154,22 @@ main {
 .card img {
    width: 80%;
    align-items: center;
+   border-radius: 10px;
+}
+
+.card a {
+    transition-duration: 0.2s;
+    background: #05386B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.card a:hover {
+    background-color: #1b78d4;
 }
 
 /*Blog page styling finishes here*/
@@ -125,55 +178,144 @@ main {
 }
 
 /*Contact page styling starts here*/
-.contactForm label {
+.contact-form label {
     display: flex;
     flex-direction: column;
     padding-bottom: 2%;
     padding-top: 2%;
 }
 
-.contactForm {
+.contact-form {
     display: flex;
     flex-direction: column;
-}
-
-/*Footer styling starts here */
-footer {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    padding-bottom: 10px;
-}
-
-.social-icons {
-    display: flex;
-    justify-content: center;
     align-items: center;
 }
 
-#linkedin {
+.contact-form-input {
+    width: 90%;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 4px;
+    border: 2px solid #05386B;
+    background: none;
+}
+
+.contact-form-input:focus {
+    outline: none;
+    border: 2px solid #1b78d4;
+}
+
+.form-button {
+    transition-duration: 0.2s;
+    background: #05386B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    margin: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 80%;
+}
+
+.form-top {
+    width: 100%;
+}
+
+.form-message {
+    width: 100%;
+}
+
+.form-button:hover {
+    background-color: #1b78d4;
+}
+
+
+
+/*Footer styling starts here */
+footer {
+    margin-top: 40px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.social-icons-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.social-icon {
+    transition-duration: 0.2s;
     width: 50px;
     height: 50px;
 }
 
-#instagram {
-    width: 50px;
-    height: 50px;
+.social-icon:hover {
+    opacity: 0.6;
 }
 
-#github {
-    width: 50px;
-    height: 50px;
-}
-
-#twitter {
-    width: 50px;
-    height: 50px;
-}
 /*Footer styling finishes here*/
+
+/* Desktop */
+@media (min-width:1025px) {
+
+    .hero-image {
+        width: 350px;
+        height: 405px;
+        padding-left: 20px;
+    }
+
+    .hero-image-container {
+        display: contents;
+    }
+
+    footer {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-blog {
+        position: relative;
+    }
+
+    .social-icons-container {
+        width: 50%;
+    }
+
+    .form-top {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .contact-form-input {
+        width: 100%;
+    }
+
+    .form-name {
+        width: 40%;
+    }
+
+    .form-email {
+        width: 40%;
+    }
+}
 
 /*Tablet media breakpoint*/
 @media only screen and (min-width: 768px){
+
+    .hero-image-container {
+        display: contents;
+    }
+
+    .hero-image {
+        padding-left: 10px;
+    }
+
     .postList {
         display: flex;
         flex-direction: row;
