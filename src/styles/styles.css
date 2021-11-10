@@ -311,6 +311,11 @@ footer {
         position: relative;
     }
 
+    .about-footer {
+        position: relative;
+        bottom: 0;
+    }
+
     .social-icons-container {
         width: 50%;
     }
@@ -379,6 +384,10 @@ footer {
     }
 
     .footer-blog {
+        position: relative;
+    }
+
+    .about-footer {
         position: relative;
     }
 

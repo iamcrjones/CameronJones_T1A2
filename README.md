@@ -38,6 +38,8 @@ Many components were designed so that interaction with my portfolio is intuitive
 
 The target audience for my portfolio is future/potential employers. It allows them to see an overview of my personality, my skills, and what I am capable of and also provides them with means to contact me.
 
+## Screenshots
+
 ## Tech stack
 
 HTML
