@@ -58,7 +58,7 @@ nav a:hover {
     background-color: #05386B;
     color: #5CDB95;
     border-radius: 5px;
-    padding: 0px 2px;
+    padding: 0 2px;
 }
 
 nav a {
@@ -81,7 +81,7 @@ nav a {
 }
 /*Nav bar styling finishes here */
 
-.aboutContent img {
+.about-content img {
     display: flex;
     float: right;
     align-items: flex-start;
@@ -112,7 +112,7 @@ main {
 }
 
 /*Blog Page styling starts here*/
-.postList {
+.post-list {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -144,7 +144,7 @@ main {
     margin-bottom: 0;
 }
 
-.publishDate {
+.publish-date {
     margin-top: 2%;
     text-align: left;
     width: 100%;
@@ -358,7 +358,7 @@ footer {
         padding-left: 10px;
     }
 
-    .postList {
+    .post-list {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
