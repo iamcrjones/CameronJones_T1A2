@@ -67,7 +67,7 @@ nav a {
     float: right;
     align-items: flex-start;
     justify-content: center;
-    max-width: 350px;
+    max-width: 100%;
     border-radius: 25%;
     -webkit-border-radius: 25%;
     -moz-border-radius: 25%;
@@ -139,21 +139,15 @@ main {
 
 /*Footer styling starts here */
 footer {
-    flex-shrink: 0;
-    bottom: 0;/*keeps the footer at the bottom of the page*/
-    justify-content: center;
+    position: absolute;
     width: 100%;
-}
-
-.home-footer {
-    flex-shrink: 0;
     bottom: 0;
-    margin-top: 30%;
+    padding-bottom: 10px;
 }
 
 .social-icons {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
