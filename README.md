@@ -3,23 +3,46 @@ My portfolio website for Coder Academy Term 1 Assessment 2.
 
 [Here is the link to my GitHub repository](https://github.com/iamcrjones/CameronJones_T1A2)
 
+[Link to my deployed portfolio site](https://crjones.netlify.app/)
 
-### 21.10.30
-I have created the wireframes for my portfolio pages. I decided to try going with a more simple design and will begin choosing a colour pallet that will elevate the simple look.
-I have also written down checklists and ToDo lists for the assignment.
-### 21.11.01
-I have selected the first set of fonts to use for headers and body text.
-Wireframes have been redone with a traditional navbar instead of a hamburger style button because even thought it can be done in CSS, I would rather do it in JavaScript but do not have the knowledge on how to do so. It would be unwise of me to put code into my website without fully understanding it.
+## Purpose
+The purpose of this website is to act as a portfolio to show off my skills and the work I have done to potential employers. This website contains methods of contact, some information about me and also demonstrates my web development skills I have learned so far.
 
-![Home page](/docs/Wireframes/wireframe-home.png)
-![About page](/docs/Wireframes/wireframe-about.png)
-![Blog Posts page](/docs/Wireframes/wireframe-blogList.png)
+## Features and Functionality
+
+This is the first website that I have made while keeping responsiveness and accessibility in mind throughout the project, making sure it passes audit tests so that it is easily accessible which has helped me improve my site to be stable and loads quickly.
+
+## Components
+
+Many components were designed so that interaction with my portfolio is intuitive:
+
+* Nav bar allows users to navigate the website and navigate
+* Social icons which are used as a means of contact with others
+* Cards with previews of blog posts that link to the full article
+* Buttons to be able to tell exactly what is a link in some components
+* Hover functions allow the user to know if their cursor is focusing on an element that
+
+## Sitemap
+
+![Sitemap](./docs/Images/Sitemap.png)
+
+## Wireframes
+
+![Home page](./docs/Wireframes/wireframe-home.png)
+![About page](./docs/Wireframes/wireframe-about.png)
+![Blog Posts page](./docs/Wireframes/wireframe-blogList.png)
 ![Blog Article page](/docs/Wireframes/wireframe-blogArticle.png)
-![Contact page](/docs/Wireframes/wireframe-contact.png)
+![Contact page](./docs/Wireframes/wireframe-contact.png)
 
-### 21.11.03
-I have built the navbar linking all of the other pages together. Ive begun styling the homepage and main header experimenting with colours.
+## Target Audience
 
+The target audience for my portfolio is future/potential employers. It allows them to see an overview of my personality, my skills, and what I am capable of and also provides them with means to contact me.
 
+## Tech stack
+
+HTML
+CSS
+Netlify for deployment
+GitHub for version control
 
 
