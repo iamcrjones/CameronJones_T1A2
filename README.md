@@ -45,8 +45,11 @@ Desktop: ![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/
 ## Tech stack
 
 HTML
+
 CSS
+
 Netlify for deployment
+
 GitHub for version control
 
 
