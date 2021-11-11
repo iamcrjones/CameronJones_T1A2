@@ -194,6 +194,10 @@ article h4 {
     margin-top: 5px;
 }
 
+article img {
+    max-width: 100%;
+}
+
 /*Contact page styling starts here*/
 .contact-form label {
     display: flex;
@@ -359,11 +363,11 @@ footer {
     }
 
     article img {
-        max-width: 60%;
+        width: 60%;
     }
 
     article p {
-        max-width: 80%;
+        width: 60%;
     }
 }
 
@@ -425,7 +429,7 @@ footer {
     }
 
     article img {
-        max-width: 60%;
+        max-width: 80%;
     }
 
     article p {
