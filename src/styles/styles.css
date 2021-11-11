@@ -172,10 +172,27 @@ main {
     background-color: #1b78d4;
 }
 
-/*Blog page styling finishes here*/
 .lorem {
     width: 100%;
 }
+
+/*Blog Article starts here*/
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+article h2 {
+    align-self: flex-start;
+}
+
+article h4 {
+    align-self: flex-start;
+}
+
+
 
 /*Contact page styling starts here*/
 .contact-form label {
@@ -340,6 +357,14 @@ footer {
     .form-button {
         width: 40%;
     }
+
+    article img {
+        max-width: 60%;
+    }
+
+    article p {
+        max-width: 80%;
+    }
 }
 
 /*Tablet media breakpoint*/
@@ -397,5 +422,13 @@ footer {
 
     .form-button {
         width: 40%;
+    }
+
+    article img {
+        max-width: 60%;
+    }
+
+    article p {
+        max-width: 80%;
     }
 }
