@@ -14,7 +14,7 @@ This is the first website that I have made while keeping responsiveness and acce
 
 ## Components
 
-Many components were designed so that interaction with my portfolio is memorable:
+Many components were designed so that interaction with my portfolio is easy and engaging to use:
 
 * Nav bar allows users to navigate the website and navigate
 * Footer with social icons which are used as a means of contact with others
