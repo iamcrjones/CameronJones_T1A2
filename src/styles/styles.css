@@ -186,10 +186,12 @@ article {
 
 article h2 {
     align-self: flex-start;
+    margin-bottom: 0;
 }
 
 article h4 {
     align-self: flex-start;
+    margin-top: 5px;
 }
 
 
