@@ -39,9 +39,9 @@ The target audience for my portfolio is future/potential employers. It allows th
 
 ## Screenshots
 
-![Mobile Screenshots:](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Mobile)
+Mobile: ![Mobile Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Mobile)
 
-![Desktop Screenshots:](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Desktop)
+Desktop: ![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Desktop)
 ## Tech stack
 
 HTML
