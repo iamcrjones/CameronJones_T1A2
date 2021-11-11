@@ -14,13 +14,12 @@ This is the first website that I have made while keeping responsiveness and acce
 
 ## Components
 
-Many components were designed so that interaction with my portfolio is intuitive:
+Many components were designed so that interaction with my portfolio is memorable:
 
 * Nav bar allows users to navigate the website and navigate
-* Social icons which are used as a means of contact with others
+* Footer with social icons which are used as a means of contact with others
 * Cards with previews of blog posts that link to the full article
-* Buttons to be able to tell exactly what is a link in some components
-* Hover functions allow the user to know if their cursor is focusing on an element that
+* Main to contain content styling and keep separate from body content
 
 ## Sitemap
 
@@ -40,7 +39,8 @@ The target audience for my portfolio is future/potential employers. It allows th
 
 ## Screenshots
 
-![Mobile Screenshots]
+![Mobile Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Mobile)
+![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Desktop)
 ## Tech stack
 
 HTML
