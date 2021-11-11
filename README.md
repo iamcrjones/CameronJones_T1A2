@@ -27,10 +27,24 @@ Many components were designed so that interaction with my portfolio is easy and 
 
 ## Wireframes
 
+Home:
+
 ![Home page](./docs/Wireframes/wireframe-home.png)
+
+About:
+
 ![About page](./docs/Wireframes/wireframe-about.png)
+
+Blog Posts:
+
 ![Blog Posts page](./docs/Wireframes/wireframe-blogList.png)
+
+Blog Article:
+
 ![Blog Article page](/docs/Wireframes/wireframe-blogArticle.png)
+
+Contact:
+
 ![Contact page](./docs/Wireframes/wireframe-contact.png)
 
 ## Target Audience
