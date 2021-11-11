@@ -40,6 +40,7 @@ The target audience for my portfolio is future/potential employers. It allows th
 
 ## Screenshots
 
+![Mobile Screenshots]
 ## Tech stack
 
 HTML
