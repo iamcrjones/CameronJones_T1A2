@@ -33,9 +33,11 @@ I designed this portfolio to be simple and engaging. The components are listed b
 * Main semantic tag - Contains content styling to keep separate from body content
 
 ## Sitemap
-
+##### First iteration
 ![Sitemap](./docs/Images/Sitemap.png)
 
+##### Final Iteration
+![Sitemap](./docs/Images/SitemapFinal.png)
 ## Wireframes
 
 ##### Home:
@@ -93,7 +95,7 @@ The next step was adding media breakpoints to ensure my site is responsive. This
 
 Removing the anchor tag made things easier, however, the cards were still not working as intended. A fellow student posted a link to a game designed to teach flex-box, and after completing a few levels I had could pin-point what was wrong with the cards, and set off to fix them.
 
-In the last iteration of my portfolio, I created and styled the contact form, and added some finishing touches to ensure I was happy with all aspects of the site.
+In the last iteration of my portfolio, I created and styled the contact form, and added some finishing touches to ensure I was happy with all aspects of the site. I also updated the sitemap to more accurately depict the different options available, such as navigating back to the home page from each child page, as well as adding the email form from the contact page.
 
 
 
