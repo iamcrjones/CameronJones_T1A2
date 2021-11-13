@@ -65,15 +65,17 @@ Desktop: ![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/
 
 ## Lighthouse Scores
 
+![about score](./docs/Images/Scores/About.png)
+Score screenshots: ![score screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/Scores)
 
 ## Tech stack
 
-HTML
-
-CSS
-
-Netlify for deployment
-
-GitHub for version control
-
+* HTML
+* CSS
+* Netlify for deployment
+* GitHub for version control
+* googlefonts for fonts
+* balsamiq for wireframes and sitemap
+* Blog image sourced from istockphoto.com
+* Original social media icons were sourced from each platform's branding page and edited to fit my design
 
