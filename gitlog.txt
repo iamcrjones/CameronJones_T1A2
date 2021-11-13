@@ -1,0 +1,707 @@
+commit 8e923930e1c325c450404911df2e2cb53453ba8e
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 20:56:45 2021 +1000
+
+    Final update
+
+commit 5159bfdbf5a5e40d57ab6f963b59757eb63fe2a6
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 20:51:21 2021 +1000
+
+    last update of readme
+
+commit 9bbb84e54e80728e85a6cf62577e4e7fcc20429b
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 20:48:41 2021 +1000
+
+    update readme
+
+commit 230c93ca5ca25f7fc1c800cd1a5357b2cbb33ccb
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 20:22:27 2021 +1000
+
+    update readme
+
+commit 9db6d6310a18f8f76d04010ec07580ebf054eb87
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 12:33:55 2021 +1000
+
+    readme update
+
+commit 2ab12f916019cbdefeebddc1b067160e55a99559
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 12:02:32 2021 +1000
+
+    Updated readme
+
+commit a63113296b7aaeae8c7e2188eb9bbd3434d10762
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 12:01:45 2021 +1000
+
+    Updated readme
+
+commit 550c8866c88489984136bdb8393599d204397020
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 11:52:57 2021 +1000
+
+    Added lighthouse score screenshots to docs folder for readme
+
+commit 6661d76a9e78b87d238f5979775f5e43abe52992
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 11:16:54 2021 +1000
+
+    Added presented version of slide deck to repo
+
+commit a6edf83d2f04bd578465f8036471607edd115bd5
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 13 11:13:03 2021 +1000
+
+    Added comments to html sections. Organised parts of styles.css. re-added sha512 to styles.css
+
+commit be6367d0cb20b4183e0d4018e6536230c3321789
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 18:12:29 2021 +1000
+
+    removed extra <head> tag on post4.html
+
+commit 15759197cb15613a60277172dc8c577e5099b1f8
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 18:04:15 2021 +1000
+
+    correctly implemented sha512 for noto sans font
+
+commit a00cdc8f2a562e130f11f44cf0ebe89c38f64d23
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 18:00:12 2021 +1000
+
+    correctly implemented sha512 for rubik font
+
+commit 40c595951ad04907f4aeb4a16f162a68daf77fc8
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 17:53:10 2021 +1000
+
+    correctly implemented sha512 to styles.css across entire site
+
+commit 5f1aa8a1254fe104e4fb8b73db7c31bdd3edde76
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 16:02:46 2021 +1000
+
+    Fixed resume link width for mobile
+
+commit 6ddd5ee3f68d0dfc404facca4e398188d953ebfc
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 16:00:34 2021 +1000
+
+    Fixed pathing issues
+
+commit f0eabfca8c7807b6309211b95e3f8f329af6df6e
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 15:54:21 2021 +1000
+
+    Pathing changes
+
+commit b89f28f4855fd9a81e796d1a69f2fcc042f13f12
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 15:51:05 2021 +1000
+
+    Removed hashes
+
+commit ed0da58ceff335ee171e5aa9786da4ce0de5a8b9
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 15:46:45 2021 +1000
+
+    Removed crossorigin
+
+commit 47f691a23572af716f8d9eb0070b9af5d2b6f0c2
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 15:39:14 2021 +1000
+
+    Added sha512 for google fonts. removed homepage button and is now just link. added submit type to form button
+
+commit acb16000f89b046e07e431670f5494fe0cdd8d1b
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 09:00:27 2021 +1000
+
+    updated slide deck
+
+commit aa4e0c55fdfaf3bc1ed01d87030ea33fe8c981b9
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 12 08:57:45 2021 +1000
+
+    Updated blog screenshots
+
+commit 63c6969093101e0969270ccdf132e8bceeb10567
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:30:22 2021 +1000
+
+    Updated wireframe section in readme
+
+commit bac2d5192e5c5f867d531a81d4aca0314fce6ede
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:27:23 2021 +1000
+
+    Updated readme
+
+commit 1fac9dda0188ad885ac67f868ca5ab10b86d77bf
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:26:58 2021 +1000
+
+    Updated readme
+
+commit 11e906e6232b432274910569cf2765d9ff6c879a
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:26:05 2021 +1000
+
+    Updated readme
+
+commit a445d5b07de9b8143259cd4b826be97d4364b098
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:25:46 2021 +1000
+
+    Updated readme
+
+commit 88932c8abdf837a6b72dc83e9c68f1d3d03d095b
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:24:22 2021 +1000
+
+    Updated readme
+
+commit 6ab6695acb61fb5d334d5cecc99863978733598f
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:23:19 2021 +1000
+
+    Updated readme
+
+commit 98226af428039fc6723d8837a5ee9d65ed7ee152
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:07:59 2021 +1000
+
+    Added presentation PDF
+
+commit 1d84c160fb861b46b3dc669af39458b2959594a3
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 21:01:18 2021 +1000
+
+    Updated sitemap to give better visual representation
+
+commit e8bf09da0fdc37c3cf214e8129cd24b5aa97e4e4
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 20:45:14 2021 +1000
+
+    Added heading class to most headers. changed dates on articles. removed header tag and styling that was not used
+
+commit 89ef98d41860b570e60555abbf8a4c9c893fbc42
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 20:34:47 2021 +1000
+
+    Added some more text in about page
+
+commit ade192095c0841e3db0fa7742b44b7937315f0b0
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 14:54:22 2021 +1000
+
+    changed folder structure for screenshots for mobile and desktop
+
+commit fdf45b55da3c3402f39a384a82d6596a68afe671
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 14:42:55 2021 +1000
+
+    Changed publish date on articles to h3 to keep them in sequentially-descending order for accessibility
+
+commit 736dd376a161e344a6876df2934cd076ce6e2d5f
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 14:36:22 2021 +1000
+
+    Added meta tag
+
+commit 7938369f1f2a0a7ff1ca81efca5c0fa8a30232bb
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 14:27:39 2021 +1000
+
+    removed lorem class from image on article. article img styling
+
+commit 450f45305ed78664f75bda6e49efab794686f634
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 14:05:57 2021 +1000
+
+    new titles for blog posts. placeholder blog articles implemented with correct linking.
+
+commit 2aa402bb7633b2037128211bb111be90ead33384
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 11:59:47 2021 +1000
+
+    Changed margins for article headers and publish dates
+
+commit 8d3bd71bdffeb91ec310fa9d0014e0fcd0d3119d
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 11:56:58 2021 +1000
+
+    Styling for blog article. correct linking for article pages. added mobile screenshots. updated sitemap and article wireframe
+
+commit d0ed0230b40c25fc1261be637fd8fa30af438811
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 09:26:53 2021 +1000
+
+    Updated wireframes for new design
+
+commit e9ce6d8cd0af686907d6b608f2435e63799a0dbb
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 09:21:33 2021 +1000
+
+    renamed classes to have consistent format
+
+commit 13c07257e00ad0ae1ba3b9adfc4c6a8b9f6defda
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 11 08:58:33 2021 +1000
+
+    Updated about page footer styling in breakpoints
+
+commit c141e863c6a70199b2ffb387a242d4e4fd383845
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 21:55:57 2021 +1000
+
+    Updated sitemap and readme
+
+commit e1cb4e4e7f700e9f60ffe50d63f380b4c705a813
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 20:50:28 2021 +1000
+
+    Fixed resume button styling for breakpoints
+
+commit 1f1846dcf46cf00b3495e8d2895d8fb1c965baf2
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 20:45:38 2021 +1000
+
+    added class for resume button. button styling for breakpoints
+
+commit d54c8814e43a3ad3924994ddd6ea3df4f78f1dc1
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 19:42:01 2021 +1000
+
+    Resume button styling updated
+
+commit e811c312c870afba64a3b48aa5b5963489986fa9
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 19:40:06 2021 +1000
+
+    Update fake resume
+
+commit 317af3edcfa2e01e1704b622128a252aaa068d54
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 19:06:17 2021 +1000
+
+    Added fake resume PDF with button link in homepage
+
+commit 5e0ab5437542bdbd71c5c469dbc748e3d0c21fd5
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 18:00:03 2021 +1000
+
+    Twitter logo res fix
+
+commit e3993b013802a97bb383f6715e97ec937aa07a15
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 17:57:21 2021 +1000
+
+    Social icons now at 50x50 again
+
+commit 2badbf0f61337ebf5992ddd7b6d166fb323f80ab
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 17:54:11 2021 +1000
+
+    Social icons now at 100x100 for better optimisation
+
+commit 5e72368bc94300b35ced8aff7f220faaab6190fb
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 17:45:34 2021 +1000
+
+    Changed back to png for social icons
+
+commit 4eae0ecbeed19ecece107cb51e7e1bb75943e6a1
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 17:37:37 2021 +1000
+
+    Compressed social icons and converted files to jpeg
+
+commit e5bceec5a4b22db2c40de7ec59c613a045afe6bc
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 17:27:07 2021 +1000
+
+    Added crawlable link to homepage on index.html
+
+commit 2df9cff00fa8a196096815a6f9c640aae140e59a
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 17:24:45 2021 +1000
+
+    Added noreferrer to footer links to improve security
+
+commit b2c9c8e815cf47c21019d027df26aad09fcd6835
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 16:49:52 2021 +1000
+
+    Updated styling. Added desktop breakpoint. Footer should now stick to bottom. Updated paths to other files
+
+commit 9e46c70d0523830b9bbb72f74c9bc6fe3fc5876e
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 16:46:09 2021 +1000
+
+    Added favicon files
+
+commit 566670baddf395f28e00e70193621ab6a0a8e9cf
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 10 16:44:00 2021 +1000
+
+    compressed selfie image and converted to jpeg
+
+commit a271bb54972ce726124a6adc184dc6c07c85f6f7
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 8 20:16:58 2021 +1000
+
+    Removed emote from about page
+
+commit c5782f796d3f8a5669a2c651592fedfbe37c4991
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 8 20:11:26 2021 +1000
+
+    Removed body bottom margin. removed old colour list from css file.
+
+commit c9e1546a4cd72dfdc628de649439942cdf6c094a
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 8 20:00:07 2021 +1000
+
+    Added flex-shrink to footer
+
+commit f95a96f2d263f44a4e8f03627ffb81e0fe6a4d46
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 8 19:47:39 2021 +1000
+
+    Footer position
+
+commit c819a939e36968dd70d830f417a673d6662ea46a
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 8 19:42:21 2021 +1000
+
+    fix nav paths, edit styling
+
+commit 5c94eb7e78d547884a5462e2297360dbbc8594b1
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 14:52:02 2021 +1000
+
+    Removed images not used. All logos are now imperial blue colour on footer across all pages.
+
+commit b3504074da5c64bf70b34a4015e6210330e970cb
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 14:40:32 2021 +1000
+
+    Created and added footer logos with imperial blue colour to match text
+
+commit c97428e36722a92ced6fa03cd4e61634c7d8ef2c
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 13:34:17 2021 +1000
+
+    set width of blog cards for mobile and for tablet break point
+
+commit e40a606e9460d6ec52e98e2118a854bbd29f30ce
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 13:09:47 2021 +1000
+
+    added .gitignore and banished .DS_Store
+
+commit 195c8c8b56c762cc5980c7345b93d2bb503b4246
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 13:02:21 2021 +1000
+
+    added image of self to about page and put radius on corners. removed background-color on footer.
+
+commit 502be27767a4c1bf428d9453b11d54bad51c128f
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 12:28:47 2021 +1000
+
+    Added extra font weights for styling. Begun changing to new colour list. Changed header to fixed size. Altered navbar so that it is now lined up with main header.
+
+commit 737fcee21af8789cf73ecce9d9d3df96a95c66ad
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 11:31:27 2021 +1000
+
+    Created sitemap for portfolio
+
+commit eefb3382208a8fcf3f8634f02fc789872b324a92
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Nov 6 11:28:21 2021 +1000
+
+    Blog page containing blog post cards is now aligned properly for tablet media break point
+
+commit cf1b2e2ecf74455efe8b813c4d375ffd396c4f4e
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 16:12:33 2021 +1000
+
+    Removed links on blog cards to be able to style page. Continued styling tablet breakpoint for blog page.
+
+commit fcf22c67547d492340125ca71ebe4858b19c0f70
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 16:03:58 2021 +1000
+
+    Created tablet media breakpoint and begun styling blog post page.
+
+commit a757cb6d09210ae0f566c02bf6560cbdf3d59fc8
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 15:11:46 2021 +1000
+
+    Changed homepage footer to relative for mobile testing. Tweaked contact page text.
+
+commit 16130c30f4e9dfc16e73262deb6c60cca33002d6
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 14:54:55 2021 +1000
+
+    Added alt text to placeholder image on about page. Blog posts now have images, published date, and placeholder text.
+
+commit 19212fe26fa23c15f7662c94e095e6279c136ac5
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 14:04:17 2021 +1000
+
+    Added more text to Homepage
+
+commit 48a25bda9f9dfb34c2a9074eb6578766d6db8192
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 13:57:20 2021 +1000
+
+    Added more text to contact page
+
+commit 2384240cc5f5a3defeeea527b785f1cc6e904772
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 13:52:34 2021 +1000
+
+    changed margin of main tag to % instead of pixels
+
+commit 91639e54c985dc7a1c7ecb0dadc449852d22439f
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 13:48:07 2021 +1000
+
+    Added more text to contact page
+
+commit a9a1020e2f98737ca729c563d556b8f595b03fb0
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 13:38:04 2021 +1000
+
+    Form is now properly aligned. Pathing for all blog post html pages should now be correct.
+
+commit 993bbab9f6bb947351c385c1ec6a4c4592b83965
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 10:32:14 2021 +1000
+
+    Removed perspective on flip card for mobile testing
+
+commit 5755f2c93a445ad8722cc9b3fd5c1507b3fa1f4a
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 10:29:50 2021 +1000
+
+    Started changing paths for blogposts. adding -webkit styling on css to try optimize for mobile
+
+commit f66f2f14485c85bb050543ef349bf788be3b481d
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 10:12:13 2021 +1000
+
+    Removed active attribute on flip card
+
+commit 049dcef3c01e44d5a57ce1561794c205300839e5
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 10:10:21 2021 +1000
+
+    Adding active attribute along with hover for flip card to test on mobile
+
+commit 40fa98740de04bd8b77392a9c0ad8045f0c777c5
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 10:03:18 2021 +1000
+
+    Changing flip card to active for mobile testing
+
+commit 3f1a7d06e3882a9a0fbbeba32bdc803b43399851
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:56:10 2021 +1000
+
+    Most pathing is broken. repathing links to fix
+
+commit a33d24377fcf0f5a60e79b7fa73a8b69c1dca4ff
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:54:16 2021 +1000
+
+    Most pathing is broken. repathing links to fix
+
+commit ec10c62f9ded0190cc637e62f88a4ab130951e0b
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:52:01 2021 +1000
+
+    Most pathing is broken. repathing links to fix
+
+commit cbfa06e81ec7ee8cb43d3a5bca6c2dd106ba6b17
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:49:12 2021 +1000
+
+    Most pathing is broken. repathing links to fix
+
+commit e51245cd9a8f03a48f5a6df438d912c4d8c1dff7
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:41:33 2021 +1000
+
+    More path testing to link css file to html for deployment
+
+commit add37364f1f2f58c3ad3125138dcfe7dc2c0ea09
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:39:52 2021 +1000
+
+    Path testing for deployment
+
+commit b179e1b95d82d8e7f8d9c0e0db04e85149431693
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:36:06 2021 +1000
+
+    Path testing for deployment
+
+commit 83fd0acce5f39db6eb10d609f66feff7b0ef01ca
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:32:59 2021 +1000
+
+    Testing path directories for deployment
+
+commit ddcb62ab60aa9321040c05710d2ed16695677298
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:23:59 2021 +1000
+
+    Changed path of index.html for deployment testing. Changed the path to link index.html to all other pages.
+
+commit da313ffcec6beb8aa479139915e015f1f4496f3a
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Fri Nov 5 09:08:48 2021 +1000
+
+    Created separate class for home footer. styling flip card.
+
+commit 6c0e4194a560ee4f38b62e60cb3efd6588fd786c
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 16:12:57 2021 +1000
+
+    Added flip card for email to contact page
+
+commit e4d92ed0ac46c36dba3ce08f4dd3b4f235ba21ad
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 15:24:14 2021 +1000
+
+    Added comments to styles.css to show what styling is for what page.
+
+commit 8e2a4da6ec6d912d85cec279f8e43b2554343ff4
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 15:09:13 2021 +1000
+
+    Blog cards now have links to full post html files. redefined pathing of navbar with existing pages for consistency.
+
+commit ea8bd9280797f2798922888f5c0fb38d91220925
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 14:43:10 2021 +1000
+
+    changed blog snippets to cards. styled cards to be central. added hover box-shadow transition to cards.
+
+commit 8793ea6892811a2bc6c05c16759b7255a939a8b3
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 13:48:19 2021 +1000
+
+    Sub-headers added for about page.
+
+commit 497c9f09760ce45b98826c82461fce251f7f049f
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 13:28:16 2021 +1000
+
+    created img directory inside src to store images used in the html documents. changed image paths to match accordingly.
+
+commit 08ec879efcc3f5ce8572aa4bf624a109cf4adc4d
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 12:18:27 2021 +1000
+
+    removed position relative on header and navbar
+
+commit 0380c5bd41d9b871cd12277a12d90077570c7722
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 12:05:25 2021 +1000
+
+    Created basic blog page structure. basic placeholder styling applied.
+
+commit a366938692b863268865b78229e41615ffa04b4d
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 11:43:12 2021 +1000
+
+    changed navbar justify-content to space-around to allow it to be central now.
+
+commit db6e62e26a83a8ee52ebf703f1861d999e0d4fe3
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 11:42:16 2021 +1000
+
+    Removed the list aspect of the navbar on all pages and have restyled it.
+
+commit 03d7eb14b13c3e67523e7740c40cc672225e70c7
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 09:53:43 2021 +1000
+
+    Added paragraphs to about page. Inserted placeholder image for about page. Footer now has relative position so now it no longer covers text.
+
+commit 14661d348fc541ddfe5e0672b43df5fae2e86bac
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 09:20:35 2021 +1000
+
+    Fixed positioning of social media icons in footer. Changed icons all to black for consistency
+
+commit c49157bbfe993664304d4013219670d87bfad5dd
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Thu Nov 4 09:14:36 2021 +1000
+
+    Made navbar more presentable. Fixed position of footer to stay at the bottom of the page.
+
+commit e7b9143813e209a191ca8ecf84deda3fc49eb3a3
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 3 19:44:27 2021 +1000
+
+    Fixing navbar design by removing box-shadow and attempting to make things central
+
+commit 35a11d72f23dc6df2e8e7d0eebb2dbf31b272c56
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Wed Nov 3 18:23:17 2021 +1000
+
+    Added navbar with working links between the four main pages. Begun styling main header and navbar.
+
+commit f5c997b38766b882580e4f0ced80b654ec7edc5b
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 1 17:20:18 2021 +1000
+
+    Created footer with social media icons that link to accounts. Changed icon sizes and added padding.
+
+commit 3e67cc581c544b8bf29e1df227c3bca99680b483
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Mon Nov 1 16:04:47 2021 +1000
+
+    Added custom fonts. Wireframes redone with traditional navbar. First draft colour list added as comment in css file.
+
+commit ac69ae8d059e2e1ea8bfe829777f9cdc317fbd45
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Oct 30 15:45:17 2021 +1000
+
+    readme images fix attempt
+
+commit ab6220ec106f68fa18e55a69885ca1c065b45d3f
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Oct 30 15:41:25 2021 +1000
+
+    Added documentation to readme and wireframe screenshots
+
+commit 1e9f126bb135503d4305f6044aa6f96a66dff9db
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Oct 30 13:45:35 2021 +1000
+
+    Building upon basic structure. Added about, blog and blog post, and contact html files.
+
+commit 3df2b87f61cdd518ec871453662d49415d41ad21
+Author: Cameron Jones <iamcrjones@gmail.com>
+Date:   Sat Oct 30 10:22:14 2021 +1000
+
+    Initial commit for basic assignment structure
+
+commit caa8e988056393b8f85eac89c805844121691986
+Author: Cameron Jones <85330336+iamcrjones@users.noreply.github.com>
+Date:   Sat Oct 30 10:06:03 2021 +1000
+
+    Initial commit
