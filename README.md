@@ -12,6 +12,12 @@ The purpose of this website is to act as a portfolio to show off my skills and t
 
 This is the first website that I have made while keeping responsiveness and accessibility in mind throughout the project, making sure it passes audit tests so that it is easily accessible which has helped me improve my site to be stable and loads quickly.
 
+Features of this site include:
+
+* High contrast and careful colour selection for accessibility for people with colour blindness
+* Cards with previews of blog posts so user can clearly see how it is divided
+* Fully responsive design while also being stable and fast to load
+
 ## Components
 
 Many components were designed so that interaction with my portfolio is easy and engaging to use:
@@ -56,6 +62,10 @@ The target audience for my portfolio is future/potential employers. It allows th
 Mobile: ![Mobile Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Mobile)
 
 Desktop: ![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Desktop)
+
+## Lighthouse Scores
+
+
 ## Tech stack
 
 HTML
