@@ -66,6 +66,7 @@ Desktop: ![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/
 ## Lighthouse Scores
 
 ![about score](./docs/Images/Scores/About.png)
+
 Score screenshots: ![score screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/Scores)
 
 ## Tech stack
