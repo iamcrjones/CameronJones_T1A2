@@ -1,9 +1,8 @@
 /* Color List
 #05386B
-#379683
+#1b78d4
 #5CDB95
-#8EE4AF
-#EDF5E1
+white
 */
 /* Fonts Used
 "Rubik", sans-serif;
@@ -14,6 +13,11 @@ body {
     background-color: #5CDB95;
     color: #05386B;
     margin: 0;
+}
+
+main {
+    margin: 4%;
+    padding-top: 2%;
 }
 
 .heading {
@@ -70,7 +74,32 @@ nav a {
     border: 2px solid;
     border-radius: 5px;
 }
-/*Nav bar styling finishes here */
+
+/*Home page styling start here*/
+
+.resume-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition-duration: 0.2s;
+    background: #05386B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    margin-top: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    max-width: 100%;
+    text-align: center;
+}
+
+.resume-button:hover {
+    background-color: #1b78d4;
+}
+
+/*About page starts here*/
 
 .about-content img {
     display: flex;
@@ -83,11 +112,6 @@ nav a {
     -moz-border-radius: 25%;
     -ms-border-radius: 25%;
     -o-border-radius: 25%;
-}
-
-main {
-    margin: 4%;
-    padding-top: 2%;
 }
 
 .hero-image-container {
@@ -243,29 +267,7 @@ article img {
     background-color: #1b78d4;
 }
 
-.resume-button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition-duration: 0.2s;
-    background: #05386B;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 4px;
-    border: none;
-    outline: none;
-    margin-top: 25px;
-    cursor: pointer;
-    text-decoration: none;
-    max-width: 100%;
-    text-align: center;
-}
-
-.resume-button:hover {
-    background-color: #1b78d4;
-}
-
-/*Footer styling starts here */
+/*Footer styling starts here*/
 footer {
     margin-top: 40px;
     width: 100%;
@@ -287,8 +289,6 @@ footer {
 .social-icon:hover {
     opacity: 0.6;
 }
-
-/*Footer styling finishes here*/
 
 /* Desktop */
 @media (min-width:1025px) {
