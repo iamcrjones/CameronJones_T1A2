@@ -65,9 +65,11 @@ I designed this portfolio to be simple and engaging. The components are listed b
 This portfolio is designed to attract future employers, as well as showcase the skills I have learned over the past 5 weeks, as well as give an insight to my personality so that they can decide if I am the right fit for their team. 
 ## Screenshots
 
-Mobile: ![Mobile Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Mobile)
+##### Mobile
+![Mobile Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Mobile)
 
-Desktop: ![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Desktop)
+##### Desktop
+![Desktop Screenshots](https://github.com/iamcrjones/CameronJones_T1A2/tree/main/docs/Images/website-screenshots/Desktop)
 
 ## Lighthouse Scores
 
