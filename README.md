@@ -85,7 +85,7 @@ After my initial wireframes were created, I created and organized the file struc
 
 I began building the skeleton for most of the pages with html, making sure that I had the core components in place before adding the sprinkles.
 
-After the core structure was completed, I began style my site with css, to position the layout, using my wireframes as reference.
+After the core structure was completed, I began styling my site with css, to position the layout, using my wireframes as reference.
 
 Next I added my initial colour scheme, but realised that it was too bland, and made my website look extremely dated. I then changed the colour scheme to greens, blues, and cream, which fit the aesthetic I was going for a lot better. I reached out to a colourblind friend for feedback, as accessibility was one of my focal points. They informed me that the text was difficult to read on the dark green background I had chosen, so I switched out the colours to make sure all users can browse my site with ease.
 
@@ -95,7 +95,7 @@ In the next iteration of my site, I decided to scrap the original header, as fir
 
 The next step was adding media breakpoints to ensure my site is responsive. This went pretty smoothly, with the exception of the cards for the blog page. I tinkered around with styling these cards for a couple of hours, and ended up removing the anchor tag surrounding the cards.
 
-Removing the anchor tag made things easier, however, the cards were still not working as intended. A fellow student posted a link to a game designed to teach flex-box, and after completing a few levels I had could pin-point what was wrong with the cards, and set off to fix them.
+Removing the anchor tag made things easier, however, the cards were still not working as intended. A fellow student posted a link to a game designed to teach flex-box, and after completing a few levels I could pin-point what was wrong with the cards, and set off to fix them.
 
 In the last iteration of my portfolio, I created and styled the contact form, and added some finishing touches to ensure I was happy with all aspects of the site. I also updated the sitemap to more accurately depict the different options available, such as navigating back to the home page from each child page, as well as adding the email form from the contact page.
 
